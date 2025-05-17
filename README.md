@@ -1,5 +1,5 @@
 <h3>Name:AKASH M </h3>
-<h3>212223240003</h3>
+<h3>Reg No:212223240003</h3>
 <h3>EX. NO.6</h3>
 
 <h1 align="center">Heart attack prediction using MLP</h1>
